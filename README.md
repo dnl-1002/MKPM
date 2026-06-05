@@ -48,4 +48,3 @@ t is the number of threads used
 **Run The Example**
 ```
 ./PlexEnum ../Dataset/jazz.bin -k 4 -q 12 -tau 0.1 -t 16
-
